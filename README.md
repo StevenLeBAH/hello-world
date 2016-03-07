@@ -1,2 +1,5 @@
 # hello-world
-My first repo
+
+Hi World!
+
+Steven here. My favorite programming language is R :)
